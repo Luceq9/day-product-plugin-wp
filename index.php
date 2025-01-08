@@ -2,11 +2,11 @@
 <?php
 /*
  * Plugin Name: Product Day
- * Plugin URI: http://www.abc.com
+ * Plugin URI: https://www.luckadomena.pl
  * Description: This plugin displays the product of the day.
  * Version: 1.0
- * Author: Your Name
- * Author URI: http://www.abc.com
+ * Author: Luceq
+ * Author URI: https://www.luckadomena.pl
  */
 
 if (!defined('ABSPATH')) {
